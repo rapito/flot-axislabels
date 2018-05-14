@@ -6,13 +6,9 @@
     "Xuan Luo. Maintained by Mark Cote"
   ],
   "description": "Axis Labels plugin for flot",
-  "main": "",
-  "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ]
+  "main": "jquery.flot.axislabels.js",
+  "dependencies": {
+    "flot": ">= 0.8.3"
+  },
+  "license": "MIT"
 }
