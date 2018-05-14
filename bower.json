@@ -1,0 +1,17 @@
+{
+  "name": "flot-axislabels",
+  "homepage": "https://github.com/markrcote/flot-axislabels",
+  "authors": [
+    "Xuan Luo. Maintained by Mark Cote"
+  ],
+  "description": "Axis Labels plugin for flot",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
